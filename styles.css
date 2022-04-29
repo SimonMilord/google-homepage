@@ -17,7 +17,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: auto; 
+    margin-top: auto;
 }
 
 /* ----------- SEARCHBAR ------------*/
@@ -55,7 +55,7 @@
     word-wrap: break-word;
     outline: none;
     display: flex;
-    flex: 100%; 
+    flex: 100%;
         flex-grow: 1;
         flex-shrink: 1;
         flex-basis: 100%;
@@ -148,6 +148,7 @@
     position: fixed;
     bottom: 0;
     width: 100vw;
+    margin: 0;
 }
 .footer-links{
     display: flex;
@@ -165,6 +166,7 @@
 .left-footer {
     display: flex;
     justify-content: flex-start;
+    margin: 0;
 }
 .linkf {
     display: block;
